@@ -7,6 +7,8 @@
   Já trabalhei em dois comércios locais da minha cidade, e na área tecnológica produzi alguns projetos pequenos para amigos e familiares.</p>
 </div>
 
+<br>
+
 <div>
   <a href="https://github.com/Ezequielts4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezequielts4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
