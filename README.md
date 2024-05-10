@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kabrio&duration=3000&pause=1000&color=5614F7&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Ezequiel+Santos;Seja+bem+vindo+ao+meu+perfil!+%F0%9F%91%BD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=AA00F7&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Ezequiel+Santos!;Seja+bem+vindo+ao+meu+perfil!+%F0%9F%91%BD" alt="Typing SVG" /></a>
 
 <div>
   <p>Sou formado em Administração, mas atualmente sou estudante de Multimídia.</p>
